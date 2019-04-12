@@ -20,6 +20,7 @@ end
 
 def return_a_value(phrase = "Nice")
   puts "#{phrase}"
+  returns phrase
 
 end
 
