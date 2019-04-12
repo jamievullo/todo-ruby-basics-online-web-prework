@@ -19,7 +19,7 @@ def greeting(greeting, name)
 end
 
 def return_a_value("Nice")
-  returns "#{return_a_value}"
+  returns "#{Nice}"
 
 end
 
