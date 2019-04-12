@@ -8,7 +8,7 @@ def assign_variable(value)
 end
 
 def argue(phrase)
-  puts "#{phrase}"
+  puts phrase
   
 end
 
